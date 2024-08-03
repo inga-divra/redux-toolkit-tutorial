@@ -2,7 +2,7 @@
 
 An app where users can manage their shopping cart, including adding, removing, and updating items. The project aims to enhance skills in Redux development by focusing on state management, async actions, and integration with React.
 
-### Project goals:
+## Project goals:
 
 - Utilize Redux Toolkit to manage the application's state effectively.
 - Learn how to create slices for different features and integrate them into the store.
